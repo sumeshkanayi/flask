@@ -1,6 +1,8 @@
 # flask
 A hello world flask docker image
 
+clone this repo 
+
 Build docker image
 
 docker build --tag flask .
